@@ -2,6 +2,7 @@
 require_once 'inc/helper.php';
 require_once 'inc/enqueue.php';
 require_once 'inc/last_news.php';
+require_once 'inc/reviews.php';
 
 
 add_action('wpcf7_mail_sent', 'cf7_send_tg', 10, 3);

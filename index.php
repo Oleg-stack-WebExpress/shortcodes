@@ -8,6 +8,9 @@
     <?php
     echo do_shortcode('[contact-form-7 id="de14f34" title="Форма заявок"]');
     ?>
+     <?php
+    echo do_shortcode('[reviews]');
+    ?>
 
 </div>
 
